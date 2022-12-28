@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Sevillana';
+    font-size: 20px;
+}
+h1{
+    font-size: 5.625rem;
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'caramel';
+    
+    
+}
+h2{
+    color: #66BFBF;
+    font-family: sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p
+{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+a{
+    color: #11999E;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.pro-pic{
+    width: 200px;
+    border-radius: 200px;
+   
+    
+}
+a{
+    text-decoration: none;
+    margin: 20px ;
+
+}
+a:hover{
+    color: #EAF6F6;
+}
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+   
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+hr{
+    border-top-width: 8px;
+    color: #EAF6F6;
+    border-style: dotted none none none;
+    width: 5%;
+    
+}
+.top-container{
+    background-color: #EAF6F6; 
+    position: relative;
+    padding-top: 100px; 
+    
+}
+.middle-container{
+    position: relative;
+    padding-top: 50px; 
+    
+}
+.profile{
+    padding-bottom: 50px;
+}
+.skills{
+    padding-top: 50px;
+}
+.intro{
+    color: #40514E;
+}
+.skill-row{
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.html-img{
+     width: 25%;
+     float: left;
+     margin-right: 30px;
+}
+.chillie-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+/* .btn{
+   margin: 40px auto 60px auto;
+
+} */
+
+  
+.bottom-container{
+   
+    background-color: #66BFBF;
+    position: relative;
+    padding: 50px 0 20px; 
+
+    
+}
+.contact-me{
+    position: relative;
+    padding-top: 50px; 
+    padding-bottom: 60px;
+}
+.btn{
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: #044b4d;
+    display: inline-block;
+    width: 150px;
+    font-family: Arial;
+    font-size: 20px;
+    height: 32px;
+   color: #ffff;
+    padding-top: 10px;
+    margin-top: 20px;
+ 
+    
+}
+.btn:hover{
+    background-color: #66BFBF;
+}
+/* .footer-link{
+    text-decoration: none;
+   
+    margin: 20px;
+    
+
+  
+    
+} */
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.7rem;
+    padding: 20px 0;
+}
